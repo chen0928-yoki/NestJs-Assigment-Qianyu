@@ -1,0 +1,19 @@
+/* styles/globals.css */
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+/* Add any custom styles here */
+body {
+  font-family: 'Arial', sans-serif;
+}
+
+.dark-mode {
+  background-color: #1a202c;
+  color: #ffffff;
+}
+
+.light-mode {
+  background-color: #ffffff;
+  color: #1a202c;
+}
